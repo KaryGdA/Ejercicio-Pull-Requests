@@ -9,5 +9,5 @@ while (number <=100) {
   } else {
     console.log(number);
   }
-  number ++;
+  number123 ++;
 }
